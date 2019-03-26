@@ -1,0 +1,10 @@
+C:\Users\Afrisol Developer\source\repos\Laura Magic Ecurrency Xchanger\Laura Magic Ecurrency Xchanger\obj\Debug\Laura Magic Ecurrency Xchanger.csprojAssemblyReference.cache
+C:\Users\Afrisol Developer\source\repos\Laura Magic Ecurrency Xchanger\Laura Magic Ecurrency Xchanger\obj\Debug\Laura_Magic_Ecurrency_Xchanger.Properties.Resources.resources
+C:\Users\Afrisol Developer\source\repos\Laura Magic Ecurrency Xchanger\Laura Magic Ecurrency Xchanger\obj\Debug\Laura Magic Ecurrency Xchanger.csproj.GenerateResource.cache
+C:\Users\Afrisol Developer\source\repos\Laura Magic Ecurrency Xchanger\Laura Magic Ecurrency Xchanger\obj\Debug\Laura Magic Ecurrency Xchanger.csproj.CoreCompileInputs.cache
+C:\Users\Afrisol Developer\source\repos\Laura Magic Ecurrency Xchanger\Laura Magic Ecurrency Xchanger\obj\Debug\Laura_Magic_Ecurrency_Xchanger.layer1.resources
+C:\Users\Afrisol Developer\source\repos\Laura Magic Ecurrency Xchanger\Laura Magic Ecurrency Xchanger\bin\Debug\Laura Magic Ecurrency Xchanger.exe.config
+C:\Users\Afrisol Developer\source\repos\Laura Magic Ecurrency Xchanger\Laura Magic Ecurrency Xchanger\bin\Debug\Laura Magic Ecurrency Xchanger.exe
+C:\Users\Afrisol Developer\source\repos\Laura Magic Ecurrency Xchanger\Laura Magic Ecurrency Xchanger\bin\Debug\Laura Magic Ecurrency Xchanger.pdb
+C:\Users\Afrisol Developer\source\repos\Laura Magic Ecurrency Xchanger\Laura Magic Ecurrency Xchanger\obj\Debug\Laura Magic Ecurrency Xchanger.exe
+C:\Users\Afrisol Developer\source\repos\Laura Magic Ecurrency Xchanger\Laura Magic Ecurrency Xchanger\obj\Debug\Laura Magic Ecurrency Xchanger.pdb
