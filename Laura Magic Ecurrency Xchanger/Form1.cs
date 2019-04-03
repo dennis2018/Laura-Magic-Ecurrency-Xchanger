@@ -24,7 +24,33 @@ namespace Laura_Magic_Ecurrency_Xchanger
 
         private void butconvert_Click(object sender, EventArgs e)
         {
-            
+            //declare variables to store data input by user
+
+            int i = int.Parse(textBox1.Text);
+
+            if (combofrom.SelectedItem=="Euros" && comboBox2.SelectedItem=="Pounds Sterling") 
+            {
+                int conver = i * 2;
+                results.Text = "total :" + conver;
+            }
+            //next statement conversion
+            if (combofrom.SelectedItem == "Pounds Stering" && comboBox2.SelectedItem == "Euros")
+            {
+                int conver = i / 2;
+                results.Text = "total :" + conver;
+            }
+            //next statement convertion
+            if (combofrom.SelectedItem == "Pounds Sterling" && comboBox2.SelectedItem == "US Dollar")
+            {
+                int conver = i / 2;
+                results.Text = "total :" + conver;
+            }
+            //last convertion rate
+            if (combofrom.SelectedItem == "US Dollar" && comboBox2.SelectedItem == "Pounds Sterling")
+            {
+                int conver = i * 2;
+                results.Text = "total :" + conver;
+            }
 
 
         }
